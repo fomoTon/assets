@@ -2,5 +2,8 @@
     "name": "Intern",
     "symbol": "INTERN",
     "description": "SPL Token for FOMO AI Agent Intern",
-    "image": "https://fomoton.github.io/assets/intern1-512px.png"
+    "image": "https://fomoton.github.io/assets/intern1-512px.png",
+    "extensions": {
+        "twitter": "https://x.com/intern_fomo",
+    },
   }
