@@ -1,0 +1,11 @@
+{
+  "name": "Elysia",
+  "symbol": "ELYSIA",
+  "description": "Test description",
+  "image": "https://fomoton.github.io/assets/elysia-512px.png",
+  "extensions": {
+    "twitter": "https://x.com/elysia_fomo",
+    "telegram": "https://t.me/+oNCl3VWJGO9kODI0",
+    "tiktok": "https://www.tiktok.com/@elysia_fomo"
+  }
+}
