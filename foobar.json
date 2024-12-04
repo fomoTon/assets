@@ -1,0 +1,7 @@
+{
+  "name": "foobar",
+  "symbol": "FOOBAR",
+  "description": "foobar token",
+  "image": "https://fomoton.github.io/assets/foobar.jpg",
+  "extensions": {}
+}
