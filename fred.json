@@ -1,0 +1,7 @@
+{
+  "name": "Fred",
+  "symbol": "FRED",
+  "description": "Fred token",
+  "image": "https://fomoton.github.io/assets/fred.jpg",
+  "extensions": {}
+}
